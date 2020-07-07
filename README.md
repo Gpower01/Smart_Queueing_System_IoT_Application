@@ -78,7 +78,7 @@ There are five main components of the Intel DevCloud for the Edge:
 - **Inference Output**. You can view real-time performance results of your your jobs as a text file or a real-time annoted video.
 
 
-# Output Performance Results for Different Devices Tested in Each Projects 
+# Performance Results From Different Devices Tested 
 
 
 ## Manufacturing Output Performance Results Analysis
